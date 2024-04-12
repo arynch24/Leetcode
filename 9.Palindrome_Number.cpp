@@ -17,7 +17,7 @@ public:
         }
         if(rev==z)
         return true;
-
+        
         else
         return false;
     }
